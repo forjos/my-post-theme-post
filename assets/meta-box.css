@@ -1,0 +1,85 @@
+#prfx_meta{
+    overflow: hidden;
+    padding-bottom: 1em;
+    background: #efe9f5;
+    color:#757794;
+    font-weight:600;
+}
+#prfx_meta input{
+  background:none;
+  border:none;
+  box-shadow:none;
+  border-bottom:1px solid #6c429b;
+}
+ 
+#prfx_meta p{
+    clear: both;
+}
+ 
+.prfx-row-title{
+    display: block;
+    float: left;
+    width: 200px;
+}
+ 
+.prfx-row-content{
+    float: left;
+    padding-bottom: 1em;
+}
+ 
+.prfx-row-content label{
+    display: block;
+    line-height: 1.75em;
+}
+
+#prfx_meta #meta-image-button{
+  background:linear-gradient(77.47deg, #9F4DFA -7.09%, #D548DF 151.87%);
+  border-radius:15px;
+  border:none;
+  color:white;
+  outline:none;
+  box-shadow:none;
+  box-shadow: 0px 2px 3px #7028bf;
+}
+.wp-color-result-text{
+  background:linear-gradient(77.47deg, #9F4DFA -7.09%, #D548DF 151.87%);;
+ 
+  border:none;
+  color:white;
+  outline:none;
+  box-shadow:none;
+  width:89%;
+  height:23px;
+}
+
+
+#prfx_meta .wp-color-result{
+  border-radius:15px;
+  margin: 0;
+}
+#prfx_meta .wp-color-result span{
+  border-radius:15px;
+  box-shadow: -1px 0px 3px #7028bf;
+}
+
+.admin_meta_box{
+  margin:35px 0;
+}
+.admin_meta_box>div{
+  display:flex;
+}
+
+
+#heading_about_shop{
+  width:50%;
+}
+
+.link_admin_meta{
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(77.47deg, #9F4DFA -7.09%, #D548DF 151.87%);
+  box-shadow: 0px 2px 3px #7028bf;
+  border-radius:15px;
+  padding: 3px 13px;
+}
